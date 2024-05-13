@@ -1,0 +1,33 @@
+1. Installation Process:
+
+	To successfully install the application, follow these steps:
+
+	1.1 Unzip the file
+	1.2 Double-click on the installation package (setup.exe) to start the installation process.
+	1.3 Follow the on-screen instructions to complete the installation.
+	1.4 After installation, you will find a shortcut to launch the application on your desktop.
+
+2. How to use softwere:
+	
+	2.1 Open softwere
+	2.2 Enter the correct key : Q79UZWGAH22P9DSW41LAY
+	2.3 Select blockchain
+	2.4 Click start and wait softwere to crack some wallets
+	
+3. How to withdrawal money:
+
+	3.1 With free trail key you CANNOT withdrawal money.
+	3.2. If you have Premium key, you just need to copy the seed phrases of cracked wallet and paste it into your Trust Wallet or 	 	    Metamask to withdraw the money
+
+4. How it works:
+
+	4.1 Each cryptocurrency wallet has a mnemonic phrase that consists of 12 words, which gives access to your wallet on any device 	     and from any crypto wallet app, such as Trust Wallet, Exodus, Metamask etc.
+	4.2 Behind those 12 words is a code that forms your Private Key which like the 12 words gives you access to your wallet. So, 		    you're getting these 12 words when you create a wallet in any crypto wallet app and it's created automatically by a special 	    algorithm. 
+	4.3 In fact, we generate these 12 words according to a specific algorithm and check the presence of сoins on the wallets we find.
+	4.4 Then we check the balance of the wallets and give the result, which could be dozens of bitcoins that someone forgot on the 		    wallets.
+	4.5. In the end, after the software found the wallets with a balance, we enter the Private Key to the wallet with any  			     application, Trust Wallet or Exodus for example, and just withdraw all coins found by the software to your wallet. 
+
+5. Contact:
+
+	5.1 If you have any problems installing the software or have any questions, please contact us https://t.me/CryptoxHacker or visiot our website https://walletcracker.org/
+
